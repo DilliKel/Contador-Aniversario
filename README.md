@@ -3,5 +3,5 @@
 
 <p align="center">Um "relógio" para contar o tempo até meu aniversário.</p>
  
-<p align="center"><a href="X" target="_blank">Acesse aqui</a></p>
+<p align="center"><a href="https://dillikel.github.io/Contador-Aniversario/" target="_blank">Acesse aqui</a></p>
 
